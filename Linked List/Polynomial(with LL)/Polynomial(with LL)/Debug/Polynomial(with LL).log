@@ -1,0 +1,3 @@
+﻿  Polynomial(with LL).cpp
+C:\Users\hp\Documents\Visual Studio DSA Projects\Linked List\Polynomial(with LL)\Polynomial(with LL)\Polynomial(with LL).cpp(75,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Polynomial(with LL).vcxproj -> C:\Users\hp\Documents\Visual Studio DSA Projects\Linked List\Polynomial(with LL)\Debug\Polynomial(with LL).exe

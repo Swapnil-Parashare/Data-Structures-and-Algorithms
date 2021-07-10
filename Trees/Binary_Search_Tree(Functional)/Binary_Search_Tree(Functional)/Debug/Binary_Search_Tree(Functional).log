@@ -1,0 +1,4 @@
+﻿  Binary_Search_Tree(Functional).cpp
+C:\Users\hp\Documents\Visual Studio DSA Projects\Trees\Binary_Search_Tree(Functional)\Binary_Search_Tree(Functional)\Binary_Search_Tree(Functional).cpp(113): warning C4715: 'r_insert': not all control paths return a value
+C:\Users\hp\Documents\Visual Studio DSA Projects\Trees\Binary_Search_Tree(Functional)\Binary_Search_Tree(Functional)\Binary_Search_Tree(Functional).cpp(133): warning C4715: 'r_search': not all control paths return a value
+  Binary_Search_Tree(Functional).vcxproj -> C:\Users\hp\Documents\Visual Studio DSA Projects\Trees\Binary_Search_Tree(Functional)\Debug\Binary_Search_Tree(Functional).exe
